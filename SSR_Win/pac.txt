@@ -14,6 +14,14 @@ var ipv6_proxy = function(){ return nowall_proxy(); };
  */
 
 var rules = [
+	"||telegra.ph",
+	"||fanqiangdang.com",
+	"||https://unbug.github.io",
+	"||https://skcloudpro.com",
+	"||https://dbgjd.com/890",
+	"||https://greasyfork.org/zh-CN",
+	"||https://ssr.tools/"
+
 	"|http://85.17.73.31/",
 	"||agnesb.fr",
 	"||akiba-web.com",
@@ -7278,13 +7286,7 @@ var rules = [
 	"@@||youdao.com",
 	"@@||zhongsou.com",
 	"@@|http://ime.baidu.jp",
-	"||telegra.ph",
-	"||fanqiangdang.com",
-	"||https://unbug.github.io",
-	"||https://skcloudpro.com",
-	"||https://dbgjd.com/890",
-	"||https://greasyfork.org/zh-CN",
-	"||https://ssr.tools/"
+
 ];
 
 /*
